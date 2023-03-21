@@ -5,7 +5,7 @@ A super-simple sourceable function for processing commandline options and argume
 
   - Due to recent changes in Microsoft Github's policy regarding the use of Microsoft Github's Co-pilot, all development for this project has been migrated from Github to [sourcehut](https://sourcehut.org).
 
-  - The new project repository can be found here: [https://sr.ht/~tpapastylianou/misc-updater](https://sr.ht/~tpapastylianou/process_optargs)
+  - The new project repository can be found here: [https://sr.ht/~tpapastylianou/process_optargs](https://sr.ht/~tpapastylianou/process_optargs)
 
   - However, if you appreciate this project and would still like to express your appreciation and/or promote it here, then by all means please feel free to star it on Github.
 
